@@ -16,3 +16,4 @@ $(function(){
     $("#npatients").text(npatients);
     $("#ncurrentpatients").text(ncurrentpatients);
 });
+
