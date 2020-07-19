@@ -1,4 +1,4 @@
-var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+// var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var request = new XMLHttpRequest();
 var npatients = 0;
 var ncurrentpatients = 0;
